@@ -150,4 +150,5 @@
 	<Map Number="138" MinMoneyCount="1500" MaxMoneyCount="1500" Disable="0" /><!-- Volcano Ignis -->
 	<Map Number="139" MinMoneyCount="1500" MaxMoneyCount="1500" Disable="0" /><!-- Boss Zone (entrance) -->
 	<Map Number="140" MinMoneyCount="1500" MaxMoneyCount="1500" Disable="0" /><!-- Bloody Tarkan -->
+	<Map Number="141" MinMoneyCount="1500" MaxMoneyCount="1500" Disable="0" /><!-- Tormenta Island -->
 </ZenDropSystem>
