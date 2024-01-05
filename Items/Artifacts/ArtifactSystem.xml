@@ -62,13 +62,13 @@
 	</ArtifactMap>
 
 	<ArtifactItem>
-		<Item MapID="0" Type="1" Unk1="1" Cat="20" Index="96" Rate="217120" />
-		<Item MapID="0" Type="2" Unk1="2" Cat="20" Index="97" Rate="208000" />
-		<Item MapID="0" Type="3" Unk1="3" Cat="20" Index="98" Rate="168000" />
-		<Item MapID="0" Type="4" Unk1="4" Cat="20" Index="99" Rate="168000" />
-		<Item MapID="0" Type="5" Unk1="5" Cat="20" Index="100" Rate="19200" />
-		<Item MapID="0" Type="6" Unk1="6" Cat="20" Index="101" Rate="19200" />
-		<Item MapID="0" Type="7" Unk1="6" Cat="20" Index="102" Rate="480" />
+		<Item MapID="0" Type="1" Unk1="1" Cat="20" Index="96" Rate="300000" />
+		<Item MapID="0" Type="2" Unk1="2" Cat="20" Index="97" Rate="250000" />
+		<Item MapID="0" Type="3" Unk1="3" Cat="20" Index="98" Rate="200000" />
+		<Item MapID="0" Type="4" Unk1="4" Cat="20" Index="99" Rate="150000" />
+		<Item MapID="0" Type="5" Unk1="5" Cat="20" Index="100" Rate="50000" />
+		<Item MapID="0" Type="6" Unk1="6" Cat="20" Index="101" Rate="35000" />
+		<Item MapID="0" Type="7" Unk1="6" Cat="20" Index="102" Rate="15000" />
 	</ArtifactItem>
 
 	<OptionSelect>
