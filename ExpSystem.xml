@@ -100,8 +100,8 @@
 		<Range MinReset="0" MaxReset="0" MinLevel="751" MaxLevel="800" NormalExp="9900000000.0" MasterExp="9900000000.7" MajesticExp="9900000000.7" OffLevelExp="1.0"/>
 		<Range MinReset="0" MaxReset="0" MinLevel="801" MaxLevel="901" NormalExp="9900000000.0" MasterExp="9900000000.9" MajesticExp="9900000000.9" OffLevelExp="1.0"/>
 		<Range MinReset="0" MaxReset="0" MinLevel="902" MaxLevel="1001" NormalExp="9900000000.0" MasterExp="9900000000.9" MajesticExp="9900000000.9" OffLevelExp="1.0"/>
-		<Range MinReset="0" MaxReset="0" MinLevel="1002" MaxLevel="1500" NormalExp="9900000000.0" MasterExp="9900000000.9" MajesticExp="9900000000.9" OffLevelExp="1.0"/>
-		<Range MinReset="0" MaxReset="0" MinLevel="1501" MaxLevel="MAX" NormalExp="9900000000.0" MasterExp="9900000000.9" MajesticExp="1999.9" OffLevelExp="1.0"/>
+		<Range MinReset="0" MaxReset="0" MinLevel="1002" MaxLevel="1550" NormalExp="9900000000.0" MasterExp="9900000000.9" MajesticExp="9900000000.9" OffLevelExp="1.0"/>
+		<Range MinReset="0" MaxReset="0" MinLevel="1551" MaxLevel="MAX" NormalExp="9900000000.0" MasterExp="9900000000.9" MajesticExp="1999.9" OffLevelExp="1.0"/>
 	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 		<Range MinReset="1" MaxReset="2" MinLevel="1" MaxLevel="50" NormalExp="1.1" MasterExp="1.0" MajesticExp="1.0" OffLevelExp="1.0"/>
 		<Range MinReset="1" MaxReset="2" MinLevel="51" MaxLevel="100" NormalExp="1.3" MasterExp="1.0" MajesticExp="1.0" OffLevelExp="1.0"/>

@@ -2964,7 +2964,7 @@
 			<Spawn Index="209" Distance="0" StartX="117" StartY="27" Dir="2" /> <!-- Wolf Altar5 -->
 			<!-- <Spawn Index="248" Distance="0" StartX="99" StartY="40" Dir="2" /> --> <!-- Wandering Merchant Martin ~ shop managed via ShopList.xml -->
 			<Spawn Index="406" Distance="0" StartX="228" StartY="48" Dir="1" /> <!-- Apostle Devin -->
-			<Spawn Index="407" Distance="0" StartX="62" StartY="239" Dir="1" /> <!-- Werewolf Quarel -->
+			<Spawn Index="407" Distance="0" StartX="225" StartY="48" Dir="1" /> <!-- Werewolf Quarel -->
 		</Spot>
 		<Spot Type="2" Description="Single Point Monsters">
 			<Spawn Index="310" Distance="30" StartX="58" StartY="47" Dir="-1" /> <!-- Hammer Scout -->
