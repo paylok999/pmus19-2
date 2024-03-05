@@ -89,8 +89,7 @@
 		<Item Cat="12" Index="340" Level="1"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
 		<Item Cat="12" Index="340" Level="2"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
 		<Item Cat="12" Index="340" Level="3"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
-		<Item Cat="20" Index="41" Level="1"  Skill="0" Luck="0" Option="0" Exc="1" SetItem="0" SocketCount="3" Elemental="1" Serial="0" />
-		<Item Cat="20" Index="42" Level="0"  Skill="0" Luck="0" Option="0" Exc="1" SetItem="0" SocketCount="3" Elemental="1" Serial="0" />
+
 		<Item Cat="12" Index="268" Level="0"  Skill="0" Luck="0" Option="0" Exc="3;5" SetItem="0" SocketCount="3" Elemental="1" Serial="0" />
 		<Item Cat="12" Index="401" Level="0" Durability="50"  Skill="0" Luck="0" Option="0" Exc="1" SetItem="0" SocketCount="3" Elemental="1" Serial="0" />
 		<Item Cat="12" Index="404" Level="0" Durability="50"  Skill="0" Luck="0" Option="0" Exc="1" SetItem="0" SocketCount="3" Elemental="1" Serial="0" />
@@ -103,6 +102,7 @@
 		<Item Cat="14" Index="52" Level="3" Durability="1"  Skill="0" Luck="0" Option="0" Exc="1" SetItem="0" SocketCount="3" Elemental="1" Serial="0" />
 		<Item Cat="14" Index="52" Level="4" Durability="1"  Skill="0" Luck="0" Option="0" Exc="1" SetItem="0" SocketCount="3" Elemental="1" Serial="0" />
 		<Item Cat="14" Index="52" Level="5" Durability="1"  Skill="0" Luck="0" Option="0" Exc="1" SetItem="0" SocketCount="3" Elemental="1" Serial="0" />
+		<Item Cat="14" Index="52" Level="6" Durability="1"  Skill="0" Luck="0" Option="0" Exc="1" SetItem="0" SocketCount="3" Elemental="1" Serial="0" />
 		<Item Cat="12" Index="453" Level="15" Durability="1"  Skill="0" Luck="0" Option="0" Exc="-3;3" SetItem="0" SocketCount="3" Elemental="1" Serial="0" />
 		<Item Cat="12" Index="461" Level="15" Durability="1"  Skill="0" Luck="0" Option="0" Exc="-3;3" SetItem="0" SocketCount="3" Elemental="1" Serial="0" />
 		<Item Cat="12" Index="75" Level="15"   Skill="-1" Luck="-1" Option="0" Exc="0;0;2;3;0" SetItem="0" SocketCount="3" Elemental="1" Serial="0" />

@@ -100,10 +100,10 @@ function GladiatorDamageCalc(Strength, Dexterity, Vitality, Energy)
 	local AttackDamageMinRight = 0
 	local AttackDamageMaxRight = 0
 	
-	AttackDamageMinLeft = Strength / 6 + Energy / 12 -- Minimum Left Hand Damage
-	AttackDamageMinRight = Strength / 6 + Energy / 12 -- Minimum Right Hand Damage
-	AttackDamageMaxLeft = Strength / 4 + Energy / 8 -- Maximum Left Hand Damage
-	AttackDamageMaxRight = Strength / 4 + Energy / 8 -- Maximum Right Hand Damage
+	AttackDamageMinLeft = Strength / 5 + Energy / 12 -- Minimum Left Hand Damage
+	AttackDamageMinRight = Strength / 5 + Energy / 12 -- Minimum Right Hand Damage
+	AttackDamageMaxLeft = Strength / 3 + Energy / 8 -- Maximum Left Hand Damage
+	AttackDamageMaxRight = Strength / 3 + Energy / 8 -- Maximum Right Hand Damage
 	
 	return AttackDamageMinLeft, AttackDamageMinRight, AttackDamageMaxLeft, AttackDamageMaxRight
 end

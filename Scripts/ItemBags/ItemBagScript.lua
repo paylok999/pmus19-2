@@ -390,14 +390,41 @@ function LoadItemBag() -- Bags Load
 	AddItemBag(BAG_MONSTER, 0,760,'Monster_(760)_Rooster_White') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,761,'Monster_(761)_Rooster_Purple') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,762,'Monster_(762)_Rooster_Red') -- DropFunction /2/
+	
 	AddItemBag(BAG_MONSTER, 0,839,'Monster_(839)_Elite_Great_Bahamut_of_Abyss') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,840,'Monster_(840)_Elite_Lizard_King_of_Abyss') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,848,'Monster_(848)_Elite_Scorched_Warrior') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,849,'Monster_(849)_Elite_Scorched_Assassins') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,850,'Monster_(850)_Elite_Scorched Wizard') -- DropFunction /2/
-	AddItemBag(BAG_MONSTER, 0,930,'Monster_(930)_Elite_Bloody_Wolf_of_Fresh_Blood') -- DropFunction /2/
-	AddItemBag(BAG_MONSTER, 0,931,'Monster_(931)_Elite_Bloody_Beam_Knight') -- DropFunction /2/
-	AddItemBag(BAG_MONSTER, 0,932,'Monster_(932)_Elite_Bloody_Tantalus') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,135,'Monster_(135)_WhiteWizard') -- DropFunction /2/
+	
+	AddItemBag(BAG_MONSTER, 0,870,'Monster_(848)_Elite_Scorched_Warrior') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,871,'Monster_(849)_Elite_Scorched_Assassins') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,872,'Monster_(850)_Elite_Scorched Wizard') -- DropFunction /2/
+	
+	AddItemBag(BAG_MONSTER, 0,879,'Monster_(848)_Elite_Scorched_Warrior') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,880,'Monster_(849)_Elite_Scorched_Assassins') -- DropFunction /2/
+
+	
+	AddItemBag(BAG_MONSTER, 0,898,'Monster_(848)_Elite_Scorched_Warrior') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,899,'Monster_(849)_Elite_Scorched_Assassins') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,900,'Monster_(850)_Elite_Scorched Wizard') -- DropFunction /2/
+	
+	AddItemBag(BAG_MONSTER, 0,908,'Monster_(848)_Elite_Scorched_Warrior') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,909,'Monster_(849)_Elite_Scorched_Assassins') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,910,'Monster_(850)_Elite_Scorched Wizard') -- DropFunction /2/
+	
+	AddItemBag(BAG_MONSTER, 0,914,'Monster_(848)_Elite_Scorched_Warrior') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,915,'Monster_(849)_Elite_Scorched_Assassins') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,916,'Monster_(850)_Elite_Scorched Wizard') -- DropFunction /2/
+	
+	AddItemBag(BAG_MONSTER, 0,864,'Monster_(848)_Elite_Scorched_Warrior') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,865,'Monster_(849)_Elite_Scorched_Assassins') -- DropFunction /2/
+	
+	AddItemBag(BAG_MONSTER, 0,930,'Monster_(848)_Elite_Scorched_Warrior') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,931,'Monster_(849)_Elite_Scorched_Assassins') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,932,'Monster_(849)_Elite_Scorched_Assassins') -- DropFunction /2/
+	
 	
 -- ====================================================================
 -- EventBags -- BagType, EventID, 0, 'FileName'
@@ -509,6 +536,7 @@ function LoadItemBag() -- Bags Load
 	
 -- Bags for purpose of Imperial Guardian Event
 	AddItemBag(BAG_EVENT, 700,0, 'Event_ImperialGuardian(1)_Reward')
+	AddItemBag(BAG_EVENT, 701,0, 'Event_ImperialGuardian(2)_Reward')
 	
 -- Bags for purpose of Play Time event
 	AddItemBag(BAG_EVENT, 800,0, 'Event_PlayTime_Round_1')
